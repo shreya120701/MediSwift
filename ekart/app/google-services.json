@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69888627193",
+    "project_id": "medxpress-b7b09",
+    "storage_bucket": "medxpress-b7b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69888627193:android:9056f7ed53baf57223ed28",
+        "android_client_info": {
+          "package_name": "com.med.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69888627193-lbaadlhkbe6g0e2i51rfufq630ftfu42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbD7c_FfZ-gQ9EzLKFO4cPoh4s88QU48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69888627193-lbaadlhkbe6g0e2i51rfufq630ftfu42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
